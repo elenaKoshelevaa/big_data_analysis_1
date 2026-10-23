@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Camera / Video] --> B[Video Capture]
     B --> C[Preprocessing]
