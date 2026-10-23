@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pyyaml
+fastapi
+uvicorn
+psutil
+ultralytics
+pytest
