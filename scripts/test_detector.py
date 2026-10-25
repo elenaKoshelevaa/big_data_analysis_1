@@ -10,7 +10,7 @@ from src.inference.detector import Detector
 
 
 def main():
-    #video_path = 0
+    # video_path = 0
     video_path = "C:/Users/ekose/PycharmProjects/big_data_analysis_1/data/car.mp4"
 
     model_path = "models/yolo11n.pt"
